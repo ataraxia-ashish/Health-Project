@@ -18,9 +18,19 @@ Built for everyday users, HealthAI lets you describe your symptoms, select a con
 
 **TechSprint 2026** — National Level Hackathon | 20–21 February 2026
 
-HealthAI was conceived, designed, and built in under 24 hours as part of TechSprint 2026 — a national-level hackathon bringing together student developers from across the country.
+HealthAI was conceived, designed, and built as part of TechSprint 2026 — a national-level hackathon bringing together student developers from across the country.
 
-Our team **Innovation X Coders** tackled the challenge of making basic healthcare guidance accessible to everyone, without the need for a clinic visit or medical expertise. What started as an idea became a fully functional AI health platform — all within a single overnight sprint.
+Our team **Innovation X Coders** tackled the challenge of making basic healthcare guidance accessible to everyone, without the need for a clinic visit or medical expertise. What started as an idea became a fully functional AI health platform.
+
+---
+
+## 👥 Innovation X Coders
+
+| Name |
+|------|
+| Ashish Makwana |
+| Sahani Tripurari |
+| Nitesh Yadav |
 
 ---
 
@@ -103,16 +113,6 @@ npm start
 ```
 
 App runs at `http://localhost:3000`
-
----
-
-## 👥 Team
-
-| Name |
-|------|
-| Ashish Makwana |
-| Sahani Tripurari |
-| Nitesh Yadav |
 
 ---
 
