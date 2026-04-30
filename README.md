@@ -31,7 +31,7 @@ HealthAI is a full-stack web application that combines AI-powered symptom analys
 
 | Patient Records | Dashboard |
 |----------------|-----------|
-| ![Records](images/image_3.png) | ![Dashboard](images/image_4.png) |
+| ![Records](images/image_3.png) |
 
 ---
 
